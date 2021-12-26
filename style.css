@@ -28,7 +28,7 @@ p {
 }
 
 a {
-  display: inline-block; /* para o elemento respeitar os espaçamento e não passar os outros */
+  display: inline-block; 
   background: #febe01;
   color: #332200;
   padding: 10px;
